@@ -1,0 +1,24 @@
+{
+  "keystone": {
+    "cookieSecret": "place-your-cookie-secret-here"
+  },
+  "storage": {
+    "url": "mongodb://localhost:27017/pro-rusoft-rsd-backend"
+  },
+  "cloudinary": {
+    "url": "place-your-cloudinary-url-here"
+  },
+  "mail": {
+    "from": "place-your-from@address.here",
+    "baseURL": "http://localhost:3000",
+    "transport": {
+      "host": "smtp.mail.ru",
+      "port": 465,
+      "secure": true,
+      "auth": {
+        "user": "place-your-from@address.here",
+        "pass": "place-your-password-here"
+      }
+    }
+  }
+}
