@@ -3,7 +3,7 @@ module.exports = ({ username, baseURL, check }) => ({
   content: `
     <html>
       <body>
-        <p><b>Welcome to Ople.ai!</b></p>
+        <p><b>Welcome to Rusoft Investing Platform!</b></p>
         <p>
           Your username is ${username}. To activate your account, please click on the below link:
         </p>
@@ -11,11 +11,10 @@ module.exports = ({ username, baseURL, check }) => ({
           <a href='${baseURL}/confirm/${check}'>${baseURL}/confirm/${check}</a>
         </p>
         <p>
-          Thank you for using Ople.ai.
+          Thank you for using RuSoft.pro.
         </p>
         <p>
-          <a href='${baseURL}'>Ople.ai</a><br/>
-          Fundamentally changing Data Science.
+          <a href='${baseURL}'>RuSoft.pro</a>
         </p>
       </body>
     </html>

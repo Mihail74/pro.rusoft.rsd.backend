@@ -12,15 +12,14 @@ module.exports = ({ baseURL, check }) => ({
           <a href='${baseURL}/recover/${check}'>${baseURL}/recover/${check}</a>
         </p>
         <p>
-          Please note that Ople.ai has no access to your account and can't reset
+          Please note that RuSoft.pro has no access to your account and can't reset
           your password.
         </p>
         <p>
-          Thank you for using Ople.ai.
+          Thank you for using RuSoft.pro investing platform.
         </p>
         <p>
-          <a href='${baseURL}'>Ople.ai</a><br/>
-          Fundamentally changing Data Science.
+          <a href='${baseURL}'>RuSoft.pro</a>
         </p>
       </body>
     </html>

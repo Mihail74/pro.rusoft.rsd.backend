@@ -1,7 +1,7 @@
 {
-  "name": "@ople/obsidian-backend",
+  "name": "@rusoft/rsd-backend",
   "version": "1.0.0",
-  "description": "Obsidian Project",
+  "description": "RSD Project",
   "author": "Igor Pavlenko <i.pavlenko@ntr1x.com>",
   "private": true,
   "dependencies": {
