@@ -26,5 +26,8 @@
   },
   "blockexplorer": {
     "url": "https://testnet.blockexplorer.com"
+  },
+  "bitcoin": {
+    "mnemonic": "trophy pink account nation ahead panda organ receive diet trophy fork kick"
   }
 }
