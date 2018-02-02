@@ -8,6 +8,7 @@
     "amqplib": "^0.5.2",
     "async": "2.1.4",
     "axios": "^0.17.1",
+    "bignumber.js": "^6.0.0",
     "bip32-utils": "^0.11.1",
     "bip39": "^2.5.0",
     "bitcoinjs-lib": "^3.3.2",
