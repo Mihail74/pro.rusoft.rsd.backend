@@ -25,6 +25,7 @@
     "url": "amqp://admin:password@172.27.30.141:5672"
   },
   "blockexplorer": {
+    "url2": "https://test-insight.bitpay.com",
     "url": "https://testnet.blockexplorer.com"
   },
   "bitcoin": {
