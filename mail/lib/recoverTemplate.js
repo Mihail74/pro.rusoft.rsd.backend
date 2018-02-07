@@ -5,7 +5,7 @@ module.exports = ({ baseURL, check }) => ({
       <body>
         <p><b>Hi,</b></p>
         <p>
-          You recently notified us that you forgot your Ople Password and want to
+          You recently notified us that you forgot your RSD investing Password and want to
           regain access to your account. To do so, click on the below link:
         </p>
         <p>
