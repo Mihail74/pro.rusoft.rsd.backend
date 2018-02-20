@@ -9,6 +9,6 @@
 
 exports.create = {
   SecurityUser: [
-    { name: 'Admin User', email: 'admin@example.com', password: 'admin@example.com', isAdmin: true, isConfirmed: true }
+    { name: 'Admin User', email: 'admin@example.com', password: 'admin@example.com', isAdmin: true }
   ]
 }

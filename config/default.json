@@ -3,7 +3,8 @@
     "cookieSecret": "place-your-cookie-secret-here"
   },
   "storage": {
-    "url": "mongodb://localhost:27017/pro-rusoft-rsd-backend"
+    "url": "mongodb://localhost:27017/pro-rusoft-rsd-backend",
+    "file": "/opt/data"
   },
   "cloudinary": {
     "url": "place-your-cloudinary-url-here"
